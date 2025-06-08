@@ -1,22 +1,22 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("-_-__Task1__-_-");
-        for (int i = 1; i < 10; i++) {
+        for (int i = 1; i < 11; i++) {
             System.out.println(i);
         }
 
         System.out.println("-_-__Task2__-_-");
-        for (int i = 10; i > 1; i--) {
+        for (int i = 10; i > 0; i--) {
             System.out.println(i);
         }
 
         System.out.println("-_-__Task3__-_-");
-        for (int i = 0; i < 17; i += 2) {
+        for (int i = 0; i < 18; i += 2) {
             System.out.println(i);
         }
 
         System.out.println("-_-__Task4__-_-");
-        for (int i = -10; i < 10; i++) {
+        for (int i = -10; i < 11; i++) {
             System.out.println(i);
         }
 
